@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ruleset name="Custom Standard">
+    <rule ref="PSR2" />
+    <file>./functions.php</file>
+</ruleset>

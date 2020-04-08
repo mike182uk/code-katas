@@ -1,0 +1,7 @@
+formatter.name: pretty
+suites:
+  default:
+    namespace: Mdb
+    psr4_prefix: Mdb
+    src_path: src/
+    spec_prefix: spec\

@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "npm run lint -s && tape test.js | tap-spec",
+    "lint": "standard *.js"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
+  }
+}
